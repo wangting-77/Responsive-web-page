@@ -1,0 +1,74 @@
+.lunbotu{
+	
+	width: 100%;
+}
+
+@media (min-width:576px) {
+	.lunbo_font{
+		text-align: right;
+		top:40px;
+		right: 20px;
+		color: #fff;
+		font-size: 24px;
+	}
+}
+@media (min-width:768px) {
+	.lunbo_font{
+		text-align: right;
+		top:60px;
+		right: 30px;
+		color: #fff;
+		font-size: 36px;
+	}
+}
+@media (min-width:992px) {
+	.lunbo_font{
+		text-align: right;
+		top:80px;
+		right: 35px;
+		color: #fff;
+		font-size: 55px;
+	}
+}
+@media (min-width:1200px) {
+	.lunbo_font{
+		text-align: right;
+		top:100px;
+		right: 40px;
+		color: #fff;
+		font-size: 65px;
+	}
+}
+.carousel-indicators li{
+				width:.8rem;height: .8rem;
+				border-radius: 50%;
+				background-color: #fff;
+				
+			}
+.carousel-indicators .active {
+				background-color: orangered;
+}
+.text1{
+	color: #555;
+}
+.text2{
+	line-height: 40px;
+	font-size: 18px;
+	color: #555;
+}
+div .hover1:hover{
+	transform: scale(0.9);
+	transition: transform 1s;
+}
+.my_bg_img{
+	background: url(http://image.fast.126net.cn/group2/M00/02/DB/wKgADl1k2Q-AZ-TDAAEUYM6WsH8714.jpg) no-repeat center top;
+	height: 80%;
+}
+.my_text{
+	padding-top: 160px;padding-left: 40px;
+	
+}
+.my_bg_img2{
+	background: url(http://image.fast.126net.cn/group1/M00/05/59/wKgADF1k2fWAC7n3AAVE-Lp0vCM819.jpg) no-repeat center top;
+	height: 70%;
+}
